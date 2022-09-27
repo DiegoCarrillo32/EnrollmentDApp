@@ -159,23 +159,22 @@ function App() {
               display: 'flex',
               justifyContent: 'space-evenly',
               width: '100%',
-
-
             }}>
+
               <Form ref={formRef} onSubmit={handleSubmit}>
-                <h2>Enroll to a class</h2>
+                <h2>Enroll to a class <b title='Write classname and enroll cost as displayed on the right to enroll' >(❓)</b> </h2>
                 <input
-                  placeholder='Student`s name'
+                  placeholder='Student`s name '
                   type="text"
                   name="studentname"
                   id='class-input' />
                 <input
-                  placeholder='Class name'
+                  placeholder='Class name as displayed on the right'
                   type="text"
                   name="classname"
                   id='class-input' />
                 <input
-                  placeholder='Enroll cost in eth'
+                  placeholder='Enroll cost as displayed on the right'
                   type="text"
                   name="enrollcost"
                   id='class-input' />
@@ -185,6 +184,7 @@ function App() {
               <div>
 
                 <h2>Available classes</h2>
+
                 <div style={{
                   overflow: 'auto',
 
