@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/EnrollmenDApp/static/css/main.f5990ba1.css",
+    "main.js": "/EnrollmenDApp/static/js/main.2366cfc0.js",
+    "index.html": "/EnrollmenDApp/index.html",
+    "main.f5990ba1.css.map": "/EnrollmenDApp/static/css/main.f5990ba1.css.map",
+    "main.2366cfc0.js.map": "/EnrollmenDApp/static/js/main.2366cfc0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f5990ba1.css",
+    "static/js/main.2366cfc0.js"
+  ]
+}
