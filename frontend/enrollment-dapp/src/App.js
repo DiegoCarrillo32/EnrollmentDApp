@@ -8,7 +8,7 @@ import { Form } from './components/Form';
 import { useRef } from 'react';
 
 function App() {
-  const contractAddress = '0xaD44f12BFD875Ae76caea43004C52d438e91d54f';
+  const contractAddress = '0xBaA882f5dDc391FE8AD10F8b33Cda3956a72149c';
   const contractABI = abi.abi;
   const [isWalletConnected, setIsWalletConnected] = useState(false);
   const [Classes, setClasses] = useState([])
