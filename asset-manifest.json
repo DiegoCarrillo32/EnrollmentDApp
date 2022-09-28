@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/EnrollmentDApp/static/css/main.f5990ba1.css",
-    "main.js": "/EnrollmentDApp/static/js/main.2366cfc0.js",
+    "main.js": "/EnrollmentDApp/static/js/main.1cb22878.js",
     "index.html": "/EnrollmentDApp/index.html",
     "main.f5990ba1.css.map": "/EnrollmentDApp/static/css/main.f5990ba1.css.map",
-    "main.2366cfc0.js.map": "/EnrollmentDApp/static/js/main.2366cfc0.js.map"
+    "main.1cb22878.js.map": "/EnrollmentDApp/static/js/main.1cb22878.js.map"
   },
   "entrypoints": [
     "static/css/main.f5990ba1.css",
-    "static/js/main.2366cfc0.js"
+    "static/js/main.1cb22878.js"
   ]
 }
