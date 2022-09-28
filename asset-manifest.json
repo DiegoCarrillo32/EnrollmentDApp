@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/EnrollmenDApp/static/css/main.f5990ba1.css",
-    "main.js": "/EnrollmenDApp/static/js/main.2366cfc0.js",
-    "index.html": "/EnrollmenDApp/index.html",
-    "main.f5990ba1.css.map": "/EnrollmenDApp/static/css/main.f5990ba1.css.map",
-    "main.2366cfc0.js.map": "/EnrollmenDApp/static/js/main.2366cfc0.js.map"
+    "main.css": "/EnrollmentDApp/static/css/main.f5990ba1.css",
+    "main.js": "/EnrollmentDApp/static/js/main.2366cfc0.js",
+    "index.html": "/EnrollmentDApp/index.html",
+    "main.f5990ba1.css.map": "/EnrollmentDApp/static/css/main.f5990ba1.css.map",
+    "main.2366cfc0.js.map": "/EnrollmentDApp/static/js/main.2366cfc0.js.map"
   },
   "entrypoints": [
     "static/css/main.f5990ba1.css",
